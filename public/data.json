@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "title": "Camera & Video",
+    "description": "Classic analog wrist watch from the 1980s in good condition.",
+    "currentBidPrice": 500,
+    "timeLeft": "2h 30m",
+    "bidsCount": 15,
+    "image": "https://i.ibb.co.com/VWK4SG4g/Bid1-min.png"
+  },
+  {
+    "id": 2,
+    "title": "Music Instrument",
+    "description": "High-performance gaming laptop with RTX graphics card.",
+    "currentBidPrice": 950,
+    "timeLeft": "5h 10m",
+    "bidsCount": 22,
+    "image": "https://i.ibb.co.com/cShPkDks/Bid2-min.png"
+  },
+  {
+    "id": 3,
+    "title": "Laptop & Coding",
+    "description": "Noise-cancelling wireless headphones with long battery life.",
+    "currentBidPrice": 2100,
+    "timeLeft": "1h 45m",
+    "bidsCount": 9,
+    "image": "https://i.ibb.co.com/bjBTf6cR/Bid3-min.png"
+  },
+  {
+    "id": 4,
+    "title": "SmartWatch",
+    "description": "Latest model smartphone with AMOLED display and fast charging.",
+    "currentBidPrice": 670,
+    "timeLeft": "3h 20m",
+    "bidsCount": 18,
+    "image": "https://i.ibb.co.com/6cTBJ8ng/Bid4-min.png"
+  },
+  {
+    "id": 5,
+    "title": "Furniture",
+    "description": "Professional DSLR camera suitable for photography and videography.",
+    "currentBidPrice": 540,
+    "timeLeft": "6h 50m",
+    "bidsCount": 27,
+    "image": "https://i.ibb.co.com/My15b3DZ/Bid5-min.png"
+  },
+  {
+    "id": 6,
+    "title": "Antique Vase",
+    "description": "Handcrafted antique vase with unique traditional design.",
+    "currentBidPrice": 300,
+    "timeLeft": "4h 05m",
+    "bidsCount": 12,
+    "image": "https://i.ibb.co.com/RGJVLQM8/Bid6-min.png"
+  },
+  {
+    "id": 7,
+    "title": "Luxury Sunglasses",
+    "description": "Premium quality sunglasses with UV protection.",
+    "currentBidPrice": 180,
+    "timeLeft": "2h 55m",
+    "bidsCount": 14,
+    "image": "https://i.ibb.co.com/Wp0knrrY/Bid7-min.png"
+  }
+]

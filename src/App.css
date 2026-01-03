@@ -1,0 +1,14 @@
+tr {
+    border-bottom: 2px solid #e5e7eb;
+}
+th{
+    text-align: center;
+    padding: 8px;
+    font-weight: 500;
+    border-bottom: 2px solid #e5e7eb;
+    /* font-size: 18px; */
+}
+td {
+    text-align: center;
+    padding: 2px;
+}
